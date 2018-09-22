@@ -1,4 +1,4 @@
-## Messy Code
+## Machine Learning Topic
 - Hands-On Machine Learning with Scikit-Learn and TensorFlow
-- make your own neural network
+- Make Your Own Neural Network
 - Python for Data Analysis
