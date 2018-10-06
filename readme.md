@@ -1,4 +1,13 @@
-## Machine Learning Topic
-- Hands-On Machine Learning with Scikit-Learn and TensorFlow
-- Make Your Own Neural Network
-- Python for Data Analysis
+## Books are related to ML
+- [ ] Hands-On Machine Learning with Scikit-Learn and TensorFlow
+  - `machine learning`
+  - `deep learning`
+  - `scikit-learn`
+  - `tensorflow`
+- [x] Make Your Own Neural Network
+  - `neural network`
+- [ ] Python for Data Analysis
+  - `data analysis`
+  - `numpy`
+  - `pandas`
+  - `matplotlib`
