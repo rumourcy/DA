@@ -3,4 +3,4 @@ datasets/
 *.iml
 .idea/
 target/
-test/
+*log
