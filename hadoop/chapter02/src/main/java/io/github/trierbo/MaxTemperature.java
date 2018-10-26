@@ -1,5 +1,6 @@
 package io.github.trierbo;
 
+import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
@@ -15,8 +16,10 @@ public class MaxTemperature {
             System.exit(-1);
         }
 
-        Job job = new Job();
-        job.getConfiguration().set("mapreduce.ifile.readahead", "false");
+        Configuration conf = new Configuration();
+        conf.set("mapreduce.ifile.readahead", "false");
+        Job job = Job.getInstance(conf);
+
         job.setJarByClass(MaxTemperature.class);
         job.setJobName("Max temperature");
 
