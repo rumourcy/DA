@@ -1,5 +1,7 @@
 ## Books are related to Data Science
 - [ ] Hadoop
+  - `HDFS`
+  - `MapReduce`
 - [ ] Hands-On Machine Learning with Scikit-Learn and TensorFlow
   - `machine learning`
   - `deep learning`
