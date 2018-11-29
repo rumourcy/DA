@@ -1,4 +1,7 @@
 ## Books are related to Data Science
+- [ ] Deep Learning with Python
+  - `deep learning`
+  - `keras`
 - [ ] Hadoop: The Definitive Guide
   - `HDFS`
   - `MapReduce`
