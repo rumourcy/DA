@@ -12,7 +12,7 @@
   - `tensorflow`
 - [x] Make Your Own Neural Network
   - `neural network`
-- [ ] Python for Data Analysis
+- [x] Python for Data Analysis
   - `data analysis`
   - `numpy`
   - `pandas`
