@@ -17,3 +17,7 @@
   - `numpy`
   - `pandas`
   - `matplotlib`
+- [ ] R in Action
+  - `R`
+  - `data analysis`
+  - `statistics`
