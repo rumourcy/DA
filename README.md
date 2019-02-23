@@ -1,4 +1,4 @@
-## Books are related to Data Science
+## Books are related to Data Analysis
 - [ ] Deep Learning with Python
   - `deep learning`
   - `keras`
