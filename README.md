@@ -1,4 +1,7 @@
 ## Books are related to Data Analysis
+- [ ] Algorithms
+  - `data structures`
+  - `algorithms`
 - [ ] Deep Learning with Python
   - `deep learning`
   - `keras`
