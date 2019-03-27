@@ -4,9 +4,14 @@ import edu.princeton.cs.algs4.Stack;
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
+/**
+ * Dijkstra双栈算术表达式求值算法
+ */
 public class Evaluate {
     public static void main(String[] args) {
+        // 运算符栈
         Stack<String> ops = new Stack<>();
+        // 操作数栈
         Stack<Double> vals = new Stack<>();
         while (!StdIn.isEmpty()) {
             String s = StdIn.readString();
