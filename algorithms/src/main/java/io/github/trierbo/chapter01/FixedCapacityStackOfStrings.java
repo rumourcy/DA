@@ -36,7 +36,7 @@ public class FixedCapacityStackOfStrings {
             if (!item.equals("-"))
                 fixedCapacityStackOfStrings.push(item);
             else if (!fixedCapacityStackOfStrings.isEmpty())
-                StdOut.print(fixedCapacityStackOfStrings.pop() + " ");
+                StdOut.print(fixedCapacityStackOfStrings.pop());
         }
         StdOut.println("(" + fixedCapacityStackOfStrings.size() + " left on stack)");
     }
