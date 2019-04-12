@@ -17,17 +17,9 @@ public class Evaluate {
             String s = StdIn.readString();
             switch (s) {
                 case "+":
-                    ops.push(s);
-                    break;
                 case "-":
-                    ops.push(s);
-                    break;
                 case "*":
-                    ops.push(s);
-                    break;
                 case "/":
-                    ops.push(s);
-                    break;
                 case "sqrt":
                     ops.push(s);
                     break;
