@@ -1,20 +1,19 @@
-package io.github.trierbo.chapter01;
+package io.github.trierbo.chapter02;
 
 import edu.princeton.cs.algs4.StdOut;
 
-public abstract class Sort {
-    public static void sort() {}
-    private static boolean less(Comparable v, Comparable w) {
+public class SortUtils {
+    protected static boolean less(Comparable v, Comparable w) {
         return v.compareTo(w) < 0;
     }
-    private static void exch(Comparable[] a, int i, int j) {
+    protected static void exch(Comparable[] a, int i, int j) {
         Comparable t = a[i];
         a[i] = a[j];
         a[j] = t;
     }
-    private static void show(Comparable[] a) {
-        for (int i = 0; i < a.length; ++i)
-            StdOut.print(a[i] + " ");
+    protected static void show(Comparable[] a) {
+        for (Comparable c: a)
+            StdOut.print(c + " ");
         StdOut.println();
     }
     public static boolean isSorted(Comparable[] a) {
