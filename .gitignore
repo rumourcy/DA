@@ -3,6 +3,5 @@ datasets/
 *.iml
 .idea/
 target/
-test/
 *log
 __pycache__
