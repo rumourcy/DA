@@ -15,7 +15,8 @@ public class SelectionSort {
     }
 
     public static void main(String[] args) {
-        String[] a = In.readStrings();
+        In in = new In();
+        String[] a = in.readAllStrings();
         sort(a);
         assert SortUtils.isSorted(a);
         SortUtils.show(a);

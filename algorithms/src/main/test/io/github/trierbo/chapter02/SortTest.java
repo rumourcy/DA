@@ -4,7 +4,8 @@ import edu.princeton.cs.algs4.In;
 
 public class SortTest {
     public static void main(String[] args) {
-        String[] a = In.readStrings();
+        In in = new In();
+        String[] a = in.readAllStrings();
         InsertionSort.sort(a);
         assert SortUtils.isSorted(a);
         SortUtils.show(a);
