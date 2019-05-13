@@ -6,7 +6,9 @@ public class SortTest {
     public static void main(String[] args) {
         In in = new In();
         String[] a = in.readAllStrings();
-        InsertionSort.sort(a);
+        // InsertionSort.sort(a);
+        ShellSort.sort(a);
+        // assert SortUtils.isSorted(a);
         assert SortUtils.isSorted(a);
         SortUtils.show(a);
     }
