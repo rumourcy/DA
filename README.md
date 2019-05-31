@@ -5,6 +5,7 @@
 - [ ] Deep Learning with Python
   - `deep learning`
   - `keras`
+- [ ] Doing Data Science
 - [ ] Hadoop: The Definitive Guide
   - `HDFS`
   - `MapReduce`
