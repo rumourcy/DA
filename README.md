@@ -6,16 +6,23 @@
   - `deep learning`
   - `keras`
 - [ ] Doing Data Science
+  - `data science`
 - [ ] Hadoop: The Definitive Guide
   - `HDFS`
   - `MapReduce`
-- [ ] Hands-On Machine Learning with Scikit-Learn and TensorFlow
+- [x] Hands-On Machine Learning with Scikit-Learn and TensorFlow
   - `machine learning`
   - `deep learning`
   - `scikit-learn`
   - `tensorflow`
 - [x] Make Your Own Neural Network
   - `neural network`
+- [ ] Python Data Science Handbook
+  - `data science`
+  - `numpy`
+  - `pandas`
+  - `matplotlib`
+  - `scikit-learn`
 - [x] Python for Data Analysis
   - `data analysis`
   - `numpy`
