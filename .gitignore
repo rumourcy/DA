@@ -1,5 +1,7 @@
 datasets/
 .ipynb_checkpoints/
+.RData
+.Rhistory
 *.iml
 .idea/
 target/
