@@ -17,7 +17,7 @@
   - `tensorflow`
 - [x] Make Your Own Neural Network
   - `neural network`
-- [ ] Python Data Science Handbook
+- [x] Python Data Science Handbook
   - `data science`
   - `numpy`
   - `pandas`
