@@ -5,6 +5,9 @@
 - [ ] Deep Learning with Python
   - `deep learning`
   - `keras`
+- [ ] [Deep Learning with Tensorflow](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
+  - `deep learning`
+  - `tensorflow2.0`
 - [ ] Doing Data Science
   - `data science`
 - [ ] Hadoop: The Definitive Guide
